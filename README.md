@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="./yuztra-wordmark.png" alt="yuzu" width="300">
 I'm yuztra, a guy who likes to do """illegal""" stuff and is dedicated to archiving yuzu and Citra here.
 
 I am previously known on GitHub as tjari1, but that account has since been taken down.
