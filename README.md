@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm yuztra, a guy who likes to do """illegal""" stuff and is dedicated to archiving yuzu and Citra here.
+
+**I am NOT affiliated with the Citra dev team** (who also develops yuzu).
+
+[archived yuzu homepage](https://web.archive.org/web/20240301204319/https://yuzu-emu.org/) | [archived Citra homepage](https://web.archive.org/web/20240229205107/https://citra-emu.org/)
 
 <!--
 **yuztra/yuztra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
