@@ -5,7 +5,7 @@ I fair a lot into technology and have a vast interest on computers, software and
 
 That person in particular is an absolute idiot who backstabs my friend maple and gaslights others into thinking maple is a bad person. If you got here from that person's Discord account...
 
-# CONGRATS!!! YOU HAVE BEEN TRICKED BY THE FULLMOON EMPIRE!!!
+# CONGRATS!!! YOU HAVE BEEN TRICKED BY THE YUZTRA EMPIRE!!!
 
 <p align="center">
   <a href="https://web.archive.org/web/20240301204319/https://yuzu-emu.org/">archived yuzu homepage</a> |
