@@ -1,11 +1,10 @@
 ### Hi there 👋
+<img src="./yuztra-wordmark.png" alt="yuzu" width="300">
+I'm yuztra, a guy who likes to do """illegal""" stuff and is dedicated to archiving yuzu and Citra here.
 
-Hey, n3ptune here!  
-I fair a lot into technology and have a vast interest on computers, software and many hardware that consists on technology. I also wonder why a certain person let his GitHub username be sniped by me.
+I am previously known on GitHub as tjari1, but that account has since been taken down.
 
-That person in particular is an absolute idiot who backstabs my friend maple and gaslights others into thinking maple is a bad person. If you got here from that person's Discord account...
-
-# CONGRATS!!! YOU HAVE BEEN TRICKED BY THE YUZTRA EMPIRE!!!
+**I am NOT affiliated with the Citra dev team** (who also develops yuzu).
 
 <p align="center">
   <a href="https://web.archive.org/web/20240301204319/https://yuzu-emu.org/">archived yuzu homepage</a> |
